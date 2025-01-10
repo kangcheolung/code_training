@@ -26,6 +26,8 @@ class Solution3 {
     }
 }
 
+//
+
 
 public class nToMul {
     public static void main(String[] args) {
